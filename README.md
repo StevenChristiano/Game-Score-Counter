@@ -4,3 +4,9 @@ I used This project to try learning and understand Javascript when it's use to b
 
 ![image](https://github.com/user-attachments/assets/2ab10ea9-7f4b-4766-9489-31079a7a5522)
 
+What I use to style:
+- Bulma
+
+Main Part:
+- HTML
+- JS
